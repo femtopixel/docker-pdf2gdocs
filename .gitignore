@@ -1,0 +1,9 @@
+*.egg-info
+/credentials.json
+/token.pickle
+/tmp/
+/upload/
+/qemu*
+/*.yaml
+/.build
+/pdf2gdocs/__pycache__/
