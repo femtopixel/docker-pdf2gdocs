@@ -1,5 +1,6 @@
 FROM python:alpine
 
+COPY qemu-* /usr/bin/
 COPY . /app
 WORKDIR /app
 ARG VERSION=v1.0.0
