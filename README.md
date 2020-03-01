@@ -5,10 +5,9 @@ PDF to Google Docs - Docker Image
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/femtopixel/pdf2gdocs.svg)](https://hub.docker.com/r/femtopixel/pdf2gdocs/)
 [![Docker Stars](https://img.shields.io/docker/stars/femtopixel/pdf2gdocs.svg)](https://hub.docker.com/r/femtopixel/pdf2gdocs/)
-[![Watch Ads](https://github.com/jaymoulin/jaymoulin.github.io/raw/master/utip.png "Watch Ads")](https://utip.io/femtopixel)
 [![PayPal donation](https://github.com/jaymoulin/jaymoulin.github.io/raw/master/ppl.png "PayPal donation")](https://www.paypal.me/jaymoulin)
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png "Buy me a coffee")](https://www.buymeacoffee.com/3Yu8ajd7W)
-[![Become a Patron](https://badgen.net/badge/become/a%20patron/F96854 "Become a Patron")](https://patreon.com/femtopixel)
+[![Become a Patron](https://badgen.net/badge/become/a%20patron/F96854 "Become a Patron")](https://patreon.com/jaymoulin)
 
 Description
 -----------
