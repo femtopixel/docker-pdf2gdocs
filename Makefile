@@ -11,7 +11,7 @@ build:
 		docker build -t femtopixel/pdf2gdocs:${VERSION}-$(arch) -f .build --build-arg VERSION=${VERSION}-$(arch) ${CACHE} .;\
 	)
 publish:
-	docker push femtopixel/pdf2gdocs
+	docker push femtopixel/pdf2gdocs -a
 	cat manifest.yml | sed "s/\$$VERSION/${VERSION}/g" > manifest2.yaml
 	cat manifest2.yaml | sed "s/\$$FULLVERSION/${FULLVERSION}/g" > manifest.yaml
 	manifest-tool push from-spec manifest.yaml
