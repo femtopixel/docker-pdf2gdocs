@@ -22,4 +22,4 @@ jobs:
       - name: Build image
         run: make build
       - name: Publish image
-        run: make publish latest
+        run: make publish
